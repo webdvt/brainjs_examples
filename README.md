@@ -1,7 +1,6 @@
-# Brain.js Simple Examples
+# Machine-learning with Brain.js
+A simple machine learning tutorial with brain.js
 
-> These are some very basic examples from the YouTube "Simple Machine Learning Using JS" tutorial on YouTube.
-
-## Adding Examples / Pull Requests
-
-Feel free to add some examples. Just create a new file, number and label it and add your code/training data, etc. Please leave comments to explain what your network does
+### How to run this locally?
+- ``` npm install ```
+- ```npm run index```

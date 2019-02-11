@@ -1,3 +1,6 @@
+// Let's take a data set and train the neural network to recognize
+// if a piece of text is related to hardware of software
+
 const brain = require('brain.js');
 const data = require('./data.json');
 
